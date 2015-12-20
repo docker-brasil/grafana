@@ -3,7 +3,7 @@
 This container builds a container with the
 latest master build of Grafana.
 
-## Getting te image
+## Getting the image
     
     docker pull dockerbrasil/grafana
 
