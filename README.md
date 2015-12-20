@@ -3,12 +3,17 @@
 This container builds a container with the
 latest master build of Grafana.
 
+## Getting te image
+    
+    docker pull dockerbrasil/grafana
+
+
 ## Running your Grafana image
 --------------------------
 
 Start your image binding the external port `3000`.
 
-   docker run -i -p 3000:3000 grafana/grafana
+   docker run -i -p 3000:3000 dockerbrasil/grafana
 
 Try it out, default admin user is admin/admin.
 
