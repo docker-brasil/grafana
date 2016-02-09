@@ -1,5 +1,7 @@
 # Grafana docker image
 
+[![Join the chat at https://gitter.im/docker-brasil/grafana](https://badges.gitter.im/docker-brasil/grafana.svg)](https://gitter.im/docker-brasil/grafana?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This container builds a container with the
 latest master build of Grafana.
 
